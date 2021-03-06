@@ -1,6 +1,6 @@
 # SQLite tests
 
-<br>![SQLite logo](https://raw.githubusercontent.com/AnselmoGPP/Template_project/master/more/SQLite_logo.png)
+<br>![SQLite logo](https://raw.githubusercontent.com/AnselmoGPP/SQL_tests/master/more/SQLite_logo.png)
 
 Here I show how to use SQLite with C++. I also implement useful functions for parsing and processing data from databases.
 
