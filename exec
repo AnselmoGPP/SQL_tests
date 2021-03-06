@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd databases
+
+#../_BUILD/projects/tests/SQLite_testing
+../_BUILD/projects/world_cities/world_cities
