@@ -6,9 +6,9 @@ Here I show how to use SQLite with C++. I also implement useful functions for pa
 
 Folders in "projects":
 
-- "tests": Parsing a CSV and creation of a DB.
+- "tests": Basic SQL operations.
 
-- "world_cities": Application that uses the previously created DB that allows the user to query and get data about cities of the world.
+- "world_cities": Parsing a CSV, creation of a DB, and creation of an application that, using that DB, allows the user to query and get data about cities of the world.
 
 Links:
 
